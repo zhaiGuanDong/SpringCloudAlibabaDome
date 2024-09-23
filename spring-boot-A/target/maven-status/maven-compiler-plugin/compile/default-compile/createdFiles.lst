@@ -1,0 +1,4 @@
+com/example/springboota/SpringBootAApplication.class
+com/example/springboota/ValueAnnotationExample.class
+com/example/springboota/configuration/RestTemplateConfiguration.class
+com/example/springboota/AController.class
